@@ -6,7 +6,7 @@ A computer vision system that monitors a person's eyes through a webcam or video
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Laraib-Kiani/drowsiness-detection/blob/main/drowsiness_detection_colab.ipynb)
 
-<!-- Add a screenshot or GIF of the demo here, for example: ![Demo](demo.gif) -->
+![EAR over time](ear_plot.png)
 
 ## How It Works
 
